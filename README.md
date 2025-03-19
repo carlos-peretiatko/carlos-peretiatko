@@ -16,11 +16,11 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - ⚡ Fun fact: I love drawing, photography, and playing video games!
 
 ## 🕹️ My Favorite Video Games
-- 🎮 The Last of Us part I and II
-- 🎮 Red Dead Redemption 2
-- 🎮 Mortal Kombat
-- 🎮 Detroid: Become Human
-- 🎮 Life is Strange 2
+- 🍄 The Last of Us part I and II
+- 🐎 Red Dead Redemption 2
+- 🥷 Mortal Kombat
+- 🤖 Detroid: Become Human
+- 🦋 Life is Strange 2
 
 ## 🛠️ Technologies & Tools
 <p>Technologies and tools I use for IoT and backend development</p>
@@ -53,9 +53,13 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 📈 GitHub Stats
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos-peretiatko&show_icons=true&theme=radical)
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/carlos-peretiatko/)
+![Carlos's GitHub status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlos-peretiatko&theme=tokyonight")
 
-Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just want to chat about technology or video games.
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-peretiatko-152a12313/)
+
+Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just want to chat about technology or video games. 
+
+### 🪐 *"May the force be with you"* 🌟
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&animation=fadeIn&fontAlignY=65"/>
