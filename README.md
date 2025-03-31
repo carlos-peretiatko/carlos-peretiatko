@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 📈 GitHub Stats
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos-peretiatko&show_icons=true&theme=radical)
 
-![Carlos's GitHub status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlos-peretiatko&theme=tokyonight")
+![Carlos's GitHub status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlos-peretiatko&theme=radical)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-peretiatko-152a12313/)
